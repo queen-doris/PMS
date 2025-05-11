@@ -1,1 +1,3 @@
 # PMS
+
+A system designed with both sofware and hardware to manage parking lots by managing entry of cars, payments, exit, ...
